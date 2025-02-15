@@ -1,0 +1,1 @@
+This repository demonstrates a common error in shell scripting: the failure to handle file processing errors gracefully. The `bug.sh` script attempts to process a file without checking if it exists.  The `bugSolution.sh` script shows the corrected version with proper error handling.
